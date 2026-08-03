@@ -1,2 +1,3 @@
-# java-examples
+# Myjava-journey
 All my work and activities are uploaded here... This is my java journey :)
+Locate a bug in your life and debug it...
